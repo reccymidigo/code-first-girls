@@ -1,6 +1,7 @@
 # CFG Week One
 ## Intro to the world of the web and HTML
 Trees on Ice
+Hello Universe
 Welcome to Code First Girls!
 
 To complete this exercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
